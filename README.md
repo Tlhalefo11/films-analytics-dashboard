@@ -1,7 +1,4 @@
-# films-analytics-dashboard
-An interactive Power BI data visualization dashboard analyzing global movie budgets, box office revenues, genre trends, and cast/director metrics.
-
-# Films Analytics Dashboard 
+# Films Analytics Dashboard
 
 An interactive Power BI data visualization project exploring global film performance, looking into box office revenues, production budgets, genre distribution, and key cast and director metrics.
 
